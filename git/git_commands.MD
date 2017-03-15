@@ -56,6 +56,7 @@ git push origin dev                 # Push changes up to GitHub for 'dev' branch
 git merge dev                       # merge 'dev' into master (switch to 'master' branch first)  
 git branch -d dev                   # delete this branch  
 git branch -vv                      # To see the remote branch that it is tracking
+git branch -u origin/develop        # Set current branch to track origin/develop (must exist)
 ```
 
 
