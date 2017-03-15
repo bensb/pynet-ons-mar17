@@ -55,6 +55,7 @@ git checkout master                 # Switch back to 'master' branch
 git push origin dev                 # Push changes up to GitHub for 'dev' branch jj
 git merge dev                       # merge 'dev' into master (switch to 'master' branch first)  
 git branch -d dev                   # delete this branch  
+git branch -vv                      # To see the remote branch that it is tracking
 ```
 
 
