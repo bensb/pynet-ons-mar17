@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 name1 = "Kirk Byers"
 name2 = "George Washington"
 name3 = "Thomas Jefferson"
